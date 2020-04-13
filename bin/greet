@@ -10,4 +10,4 @@ welcome
 name = gets.strip
 
 # Returning the user's data as a greeting
-greeting
+greeting(name)
