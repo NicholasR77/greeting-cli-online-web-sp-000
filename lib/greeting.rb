@@ -7,8 +7,6 @@ def capture
   name = gets.strip
 end
 
-end
-
 def greeting(name)
   puts "Hello #{name}. It's nice to meet you."
 end
