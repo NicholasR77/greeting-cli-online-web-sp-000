@@ -4,7 +4,7 @@ def welcome
 end
 
 def capture
-  
+  name = gets.stip
 end
 
 end
