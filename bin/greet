@@ -7,7 +7,7 @@ require_relative "../lib/greeting.rb"
 welcome
 
 # Capturing the user's data
-capture
+name = gets.strip
 
 # Returning the user's data as a greeting
 greeting
