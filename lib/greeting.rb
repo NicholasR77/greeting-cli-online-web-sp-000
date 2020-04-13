@@ -1,6 +1,6 @@
 # code the #greeting method here!
 def welcome
-  puts "Hi! I'm Hal, what's your name?"
+  puts "Hi! I'm HAL, what's your name?"
 end
 
 def greeting(name)
