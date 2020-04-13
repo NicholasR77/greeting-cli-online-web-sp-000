@@ -4,7 +4,8 @@ def welcome
 end
 
 def capture
-  name = gets.stip
+  name = gets.strip
+  puts name
 end
 
 end
