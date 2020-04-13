@@ -5,7 +5,6 @@ end
 
 def capture
   name = gets.strip
-  puts name
 end
 
 end
